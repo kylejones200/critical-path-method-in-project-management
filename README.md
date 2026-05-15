@@ -1,7 +1,7 @@
 # Critical Path Method in Project Management
 
-**Published:** 2024-10-07
-**Medium:** [https://medium.com/@kyle-t-jones/critical-path-method-in-project-management-7a8fb00732bc](https://medium.com/@kyle-t-jones/critical-path-method-in-project-management-7a8fb00732bc)
+Published: 2024-10-07
+Medium: [https://medium.com/@kyle-t-jones/critical-path-method-in-project-management-7a8fb00732bc](https://medium.com/@kyle-t-jones/critical-path-method-in-project-management-7a8fb00732bc)
 
 ## About
 
